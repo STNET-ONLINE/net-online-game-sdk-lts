@@ -4,7 +4,7 @@
  
 [main]
         flags                            = 0
-        objects_count                    = 1241
+        objects_count                    = 1240
         version                          = 0
  
 [modif]
@@ -11739,23 +11739,40 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
         name                             = space_restrictor
  
 [object_1239]
+        attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
-        name                             = jup_inv_box_dolg
-        position                         = 22.837530, 24.898958, -199.392800
-        rotation                         = 1.235661, -1.630689, -2.037612
+        name                             = sr_safe_zone
+        position                         = -50.024816, 3.488477, 198.389712
+        rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
         type                             = 2
         version                          = 23
  
+[object_1239_attached_0]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape
+        position                         = -50.024816, 3.488477, 198.389712
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 24.631402, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 22.268002, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 51.103400
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
 [object_1239_spawndata]
         000001                           = 1
-        000002                           = "inventory_box"
-        000003                           = "jup_inv_box_dolg"
+        000002                           = "space_restrictor"
+        000003                           = "sr_safe_zone"
         000004                           = 0
         000005                           = 254
-        000006                           = 22.837530, 24.898958, -199.392800
-        000007                           = 1.235661, -1.630689, -2.037612
+        000006                           = -50.024816, 3.488477, 198.389712
+        000007                           = 0.000000, 0.000000, 0.000000
         000008                           = 0
         000009                           = 65535
         000010                           = 65535
@@ -11771,18 +11788,19 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
         000020                           = 0.000000
         000021                           = 1
         000022                           = -1
-        000023                           = -199
-        000024                           = "[spawn]
-bread = 1"
+        000023                           = -194
+        000024                           = ""
         000025                           = -1
         000026                           = -1
-        000027                           = "dynamics\equipment_cache\equipment_box_01_case"
-        000028                           = 0
-        000029                           = 1
-        000030                           = 0
-        000031                           = "inventory_box_use"
+        000027                           = 1
+        000028                           = 1
+        000029                           = 24.631402, 0.000000, 0.000000
+        000030                           = 0.000000, 22.268002, 0.000000
+        000031                           = 0.000000, 0.000000, 51.103400
+        000032                           = 0.000000, 0.000000, 0.000000
+        000033                           = 3
         fl                               = 0
-        name                             = inventory_box
+        name                             = space_restrictor
  
 [object_123_attached_0]
         clsid                            = 4
@@ -11852,70 +11870,6 @@ bread = 1"
         scale                            = 1.000000, 1.000000, 1.000000
         type                             = 2
         version                          = 23
- 
-[object_1240]
-        attached_count                   = 1
-        clsid                            = 6
-        co_flags                         = 0
-        name                             = sr_safe_zone
-        position                         = -50.024816, 3.488477, 198.389712
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_1240_attached_0]
-        clsid                            = 4
-        co_flags                         = 0
-        name                             = shape
-        position                         = -50.024816, 3.488477, 198.389712
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
-        shape_matrix_i_0                 = 24.631402, 0.000000, 0.000000
-        shape_matrix_j_0                 = 0.000000, 22.268002, 0.000000
-        shape_matrix_k_0                 = 0.000000, 0.000000, 51.103400
-        shape_type                       = 0
-        shape_type_0                     = 1
-        shapes_count                     = 1
-        version                          = 2
- 
-[object_1240_spawndata]
-        000001                           = 1
-        000002                           = "space_restrictor"
-        000003                           = "sr_safe_zone"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -50.024816, 3.488477, 198.389712
-        000007                           = 0.000000, 0.000000, 0.000000
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 33
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 65535
-        000020                           = 0.000000
-        000021                           = 1
-        000022                           = -1
-        000023                           = -194
-        000024                           = ""
-        000025                           = -1
-        000026                           = -1
-        000027                           = 1
-        000028                           = 1
-        000029                           = 24.631402, 0.000000, 0.000000
-        000030                           = 0.000000, 22.268002, 0.000000
-        000031                           = 0.000000, 0.000000, 51.103400
-        000032                           = 0.000000, 0.000000, 0.000000
-        000033                           = 3
-        fl                               = 0
-        name                             = space_restrictor
  
 [object_124_attached_0]
         clsid                            = 4
@@ -24037,7 +23991,7 @@ story_id = pas_b400_lamp_track_green"
         clsid                            = 6
         co_flags                         = 0
         name                             = jup_b32_zone_mine_electric_average_0007
-        position                         = -62.992960, -0.388756, -142.689728
+        position                         = -63.192976, -0.388756, -142.689728
         rotation                         = 0.000000, -0.000000, 0.000001
         scale                            = 1.000000, 1.000000, 1.000000
         type                             = 2
@@ -24047,7 +24001,7 @@ story_id = pas_b400_lamp_track_green"
         clsid                            = 4
         co_flags                         = 0
         name                             =
-        position                         = -62.992960, -0.388756, -142.689728
+        position                         = -63.192976, -0.388756, -142.689728
         rotation                         = 0.000000, -0.000000, 0.000001
         scale                            = 1.000000, 1.000000, 1.000000
         shape_center_0                   = 0.000000, 0.000000, 0.000000
@@ -28739,7 +28693,7 @@ story_id = pas_b400_lamp_tunnel_green"
         clsid                            = 6
         co_flags                         = 0
         name                             = jup_zone_mine_electric_average_0001
-        position                         = -61.576300, -0.388758, -149.231792
+        position                         = -62.776312, -0.388758, -149.231792
         rotation                         = 0.000000, -0.000000, 0.000001
         scale                            = 1.000000, 1.000000, 1.000000
         type                             = 2
@@ -28749,7 +28703,7 @@ story_id = pas_b400_lamp_tunnel_green"
         clsid                            = 4
         co_flags                         = 0
         name                             =
-        position                         = -61.576300, -0.388758, -149.231792
+        position                         = -62.776312, -0.388758, -149.231792
         rotation                         = 0.000000, -0.000000, 0.000001
         scale                            = 1.000000, 1.000000, 1.000000
         shape_center_0                   = 0.000000, 0.000000, 0.000000
@@ -38980,7 +38934,7 @@ story_id = pas_b400_lamp_hall_flash"
         clsid                            = 6
         co_flags                         = 0
         name                             = jup_b209_zone_mine_gravitational_average_0004
-        position                         = 230.399648, 13.712349, -138.709424
+        position                         = 229.499648, 13.712349, -138.709424
         rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
         type                             = 2
@@ -38990,7 +38944,7 @@ story_id = pas_b400_lamp_hall_flash"
         clsid                            = 4
         co_flags                         = 0
         name                             =
-        position                         = 230.399648, 13.712349, -138.709424
+        position                         = 229.499648, 13.712349, -138.709424
         rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
         shape_center_0                   = 0.000000, 0.000000, 0.000000
