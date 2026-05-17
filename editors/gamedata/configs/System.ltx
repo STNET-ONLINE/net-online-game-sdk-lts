@@ -628,7 +628,15 @@ script_binding          = bind_restrictor.bind
 shape_transp_color    = 0, 255, 0, 24
 shape_edge_color    = 32, 32, 32, 255
 
+[war_groups_zone]
+GroupControlSection   = spawn_group_restrictor
+$spawn          = "ai\war_groups_zone"
+;$prefetch        = 64
+class     = SCRIPTZN
+script_binding          = war_groups_system.bind_war_groups_zone
 
+shape_transp_color    = 82, 89, 109, 100
+shape_edge_color    = 32, 32, 32, 255
 
 [camp_zone]
 GroupControlSection = spawn_group_restrictor
