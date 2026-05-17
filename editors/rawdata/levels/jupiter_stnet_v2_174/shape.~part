@@ -3,7 +3,7 @@
         guid_g1                          = 4960127225431719567
  
 [main]
-        objects_count                    = 1
+        objects_count                    = 2
         version                          = 0
  
 [modif]
@@ -23,6 +23,20 @@
         shape_matrix_k_0                 = 0.000000, 0.000000, 1.000000
         shape_type                       = 1
         shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_1]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape
+        position                         = 16.205555, 28.677330, -457.755840
+        rotation                         = -0.089598, 0.003909, 0.043658
+        scale                            = 14.865403, 14.865403, 14.865403
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
         shapes_count                     = 1
         version                          = 2
  

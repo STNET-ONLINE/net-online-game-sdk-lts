@@ -13,8 +13,8 @@
 [object_0]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env
         position                         = -50.300792, 3.488476, 198.449136
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -24,8 +24,8 @@
 [object_1]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0001
         position                         = 1061.792000, -43.004312, -321.858016
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -35,8 +35,8 @@
 [object_10]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0009
         position                         = 376.880672, 0.600517, 314.797088
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -46,8 +46,8 @@
 [object_11]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0010
         position                         = 391.674432, 17.644770, 359.367456
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -57,8 +57,8 @@
 [object_12]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0011
         position                         = -170.556128, -2.031856, -282.351840
         rotation                         = -0.264600, 0.000000, 0.000000
@@ -68,8 +68,8 @@
 [object_13]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0012
         position                         = -78.795048, 17.662854, -321.029472
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -79,8 +79,8 @@
 [object_14]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0013
         position                         = -219.884720, -3.835012, 74.354152
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -90,8 +90,8 @@
 [object_15]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0014
         position                         = -328.363616, 10.214224, -36.639104
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -101,8 +101,8 @@
 [object_16]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0015
         position                         = -394.968736, 3.109607, -1.828787
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -112,8 +112,8 @@
 [object_17]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0016
         position                         = 171.795760, -6.709088, 211.210976
         rotation                         = 0.000000, 0.118800, 0.000000
@@ -123,8 +123,8 @@
 [object_18]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0017
         position                         = 70.926792, -0.528512, 333.921248
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -134,8 +134,8 @@
 [object_19]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0018
         position                         = 380.330496, 7.690566, 318.308768
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -145,8 +145,8 @@
 [object_2]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0000
         position                         = -364.510464, 0.000000, -219.834240
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -156,8 +156,8 @@
 [object_3]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0002
         position                         = -208.419136, 3.495670, -418.805088
         rotation                         = 0.032400, 0.405000, -0.010800
@@ -167,8 +167,8 @@
 [object_4]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0003
         position                         = -340.144864, 3.573134, 399.689440
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -178,8 +178,8 @@
 [object_5]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0004
         position                         = -295.125696, 4.232950, 389.061152
         rotation                         = 0.000000, -0.147600, 0.000000
@@ -189,8 +189,8 @@
 [object_6]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0005
         position                         = 221.370576, 30.231778, -444.216544
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -200,8 +200,8 @@
 [object_7]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0006
         position                         = 157.127984, 17.145580, -427.870432
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -211,8 +211,8 @@
 [object_8]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0007
         position                         = 175.376832, 16.369453, -256.396000
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -222,8 +222,8 @@
 [object_9]
         clsid                            = 10
         co_flags                         = 0
-        env_inner                        = bathroom
-        env_outer                        = default
+        env_inner                        =
+        env_outer                        =
         name                             = sound_env_0008
         position                         = 402.085248, 10.399588, -112.208416
         rotation                         = 0.000000, 0.000000, 0.000000
