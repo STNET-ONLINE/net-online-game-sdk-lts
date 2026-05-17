@@ -6,3 +6,5 @@ editors/_appdata_/temp/raw_cross_table_jupiter_stnet_v2
 *.log
 *.mdmp
 *.err
+/editors/gamedata/levels
+/editors/gamedata/levels/jupiter_stnet_v2
