@@ -1,0 +1,1826 @@
+[guid]
+        guid_g0                          = 4816257301467301627
+        guid_g1                          = 4960127225431719567
+ 
+[main]
+        objects_count                    = 95
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = respawn_blackbox1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -384.438848, 19.985628, 430.702592
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_1]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = documentation_jup_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 417.824096, 32.374748, -360.792608
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_10]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_zrk_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -373.945728, 2.641606, -3.315962
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_11]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administration_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 238.643280, 28.133996, -459.800256
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_12]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administration_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 242.843152, 28.289698, -440.793728
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_13]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administration_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 169.916896, 28.121248, -430.782016
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_14]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administration_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 223.600176, 28.194260, -466.306592
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_15]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administration_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 232.513088, 28.697376, -496.592416
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_16]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_bunker_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -217.457712, -3.366116, 57.261228
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_17]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_bunker_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -211.419184, -3.680775, 93.175088
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_18]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_bunker_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -222.458656, 3.335342, 69.684144
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_19]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_bunker_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -216.415872, -3.566966, 72.638192
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_2]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = documentation_jup_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 343.776512, 27.616424, -406.066080
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_20]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_bunker_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -227.717456, -3.373104, 78.908896
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_21]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_kpp_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 61.739640, 24.099590, -175.173280
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_22]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_kpp_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 51.543300, 27.963828, -181.700368
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_23]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_kpp_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 52.144244, 24.163846, -182.050096
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_24]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_kpp_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 34.609444, 23.984420, -199.925216
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_25]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_kpp_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 11.293385, 23.989882, -160.818336
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_26]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_village_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -359.560896, -1.979399, 251.885840
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_27]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_village_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -329.304256, -3.894070, 238.644080
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_28]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_village_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -338.336928, 1.494966, 259.607296
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_29]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_village_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -386.019360, -2.516964, 184.200960
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_3]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = documentation_jup_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 324.762624, 32.425690, -303.146240
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_30]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_village_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -365.696320, -2.820212, 180.511232
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_31]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_tunnel_spectrum_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -336.281856, 3.570735, 411.697504
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_32]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_tunnel_spectrum_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -366.735872, 3.570565, 411.436448
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_33]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_tunnel_spectrum_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -360.350144, 4.232986, 385.692320
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_34]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_tunnel_spectrum_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -370.249664, 4.365114, 374.625504
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_35]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_tunnel_spectrum_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -305.278624, 12.497778, 411.047936
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_36]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_cement_plant_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 366.529888, 33.372192, 339.677024
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_37]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_cement_plant_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 378.645056, 3.568519, 317.325568
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_38]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_cement_plant_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 397.508160, 8.471403, 362.124832
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_39]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_cement_plant_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 393.921632, 3.583356, 367.122208
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_4]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = respawn_doc_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 329.470176, -1.504997, -39.621536
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_40]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_cement_plant_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 397.473888, 3.651255, 322.265088
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_41]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_career_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 168.945568, -13.657761, 159.771008
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_42]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_career_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 279.745056, -29.585376, 155.735376
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_43]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_career_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 209.812832, -29.800000, 129.568160
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_44]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_career_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 220.859136, -25.449416, 157.143888
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_45]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_career_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 248.602096, -26.645922, 17.350242
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_46]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_career_6
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 228.089808, -29.800002, 55.318424
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_47]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_career_7
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 153.510992, -15.416069, 112.584472
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_48]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_career_8
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 146.183376, -14.570301, 64.512756
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_49]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_container_warehouse_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -404.870176, -0.010214, -343.794976
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_5]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = respawn_doc_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 360.516224, 29.123374, -313.640672
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_50]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_container_warehouse_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -433.201600, 0.024553, -359.575808
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_51]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_container_warehouse_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -448.435776, 0.101531, -364.025920
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_52]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_container_warehouse_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -453.161376, 0.101506, -380.595296
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_53]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_container_warehouse_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -428.779488, 0.020193, -383.527872
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_54]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_tunnel_bandit_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 399.577984, 4.279587, -119.936912
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_55]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_tunnel_bandit_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 414.483680, 9.852599, -115.190464
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_56]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_tunnel_bandit_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 400.717600, 4.279586, -97.622856
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_57]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_tunnel_bandit_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 424.532992, 9.955385, -77.518760
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_58]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_tunnel_bandit_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 414.620960, 3.693684, -69.369616
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_59]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_ventilation_complex_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -71.596952, 23.925956, -320.759872
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_6]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_zrk_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -397.884448, 7.464062, -48.882744
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_60]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_ventilation_complex_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -129.754864, 23.999572, -334.695232
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_61]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_ventilation_complex_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -130.600720, 24.027588, -301.775232
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_62]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_ventilation_complex_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -44.147540, 23.584498, -308.862720
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_63]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_ventilation_complex_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -19.044620, 23.582578, -339.538912
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_64]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_ventilation_complex_6
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -100.770952, 24.808198, -316.971616
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_65]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_stop_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 65.033768, 3.239018, 337.237472
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_66]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_stop_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 89.952016, 4.638992, 328.947680
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_67]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_stop_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 92.215680, 4.038985, 338.482400
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_68]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_stop_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 100.718384, 3.238983, 344.319904
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_69]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_stop_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 105.265928, 3.238985, 334.884992
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_7]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_zrk_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -396.297856, 7.610336, 46.051596
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_70]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administrative_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 400.166176, 52.571136, -182.394048
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_71]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administrative_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 404.387040, 39.341924, -205.549264
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_72]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administrative_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 399.408736, 39.341332, -217.016752
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_73]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administrative_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 399.428768, 39.342724, -234.229808
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_74]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administrative_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 415.192960, 27.979150, -226.127040
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_75]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_administrative_6
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 401.327072, 27.979472, -227.694416
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_76]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_jupiter_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 347.048128, 27.544362, -342.112608
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_77]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_jupiter_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 304.568704, 27.544362, -311.274080
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_78]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_jupiter_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 306.322016, 27.544362, -356.195136
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_79]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_jupiter_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 321.342464, 21.929276, -342.177760
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_8]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_zrk_3
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -340.111616, 7.874645, -20.181594
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_80]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_jupiter_5
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 299.953504, 27.544362, -349.422880
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_81]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 5.000000, 1.000000
+        link_wp_5_0                      = 6.000000, 1.000000
+        link_wp_6_0                      = 7.000000, 1.000000
+        link_wp_7_0                      = 0.000000, 1.000000
+        name                             = af_marsh_anomaly_way_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -274.900000, 0.000000, -312.600000
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = -290.200000, 0.000000, -300.000000
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = -311.500000, 0.000000, -301.000000
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = -307.600000, 0.000000, -317.500000
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = -320.000000, 0.000000, -294.900000
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = -300.200000, 0.000000, -282.000000
+        wp_5_selected                    = off
+        wp_6_flags                       = 0
+        wp_6_name                        = wp06
+        wp_6_pos                         = -309.700000, 0.000000, -257.500000
+        wp_6_selected                    = off
+        wp_7_flags                       = 0
+        wp_7_name                        = wp07
+        wp_7_pos                         = -291.000000, 0.000000, -284.200000
+        wp_7_selected                    = on
+        wp_count                         = 8
+ 
+[object_82]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 5.000000, 1.000000
+        link_wp_5_0                      = 6.000000, 1.000000
+        link_wp_6_0                      = 0.000000, 1.000000
+        name                             = af_marsh_anomaly_way_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -278.300032, 0.000000, -247.200000
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = -291.800032, 0.000000, -229.300000
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = -304.300032, 0.000000, -242.900016
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = -322.900000, 0.000000, -233.300000
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = -326.600000, 0.000000, -218.200000
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = -297.600000, 0.000000, -229.700000
+        wp_5_selected                    = off
+        wp_6_flags                       = 0
+        wp_6_name                        = wp06
+        wp_6_pos                         = -278.300032, 0.000000, -235.100000
+        wp_6_selected                    = on
+        wp_count                         = 7
+ 
+[object_83]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 5.000000, 1.000000
+        link_wp_5_0                      = 0.000000, 1.000000
+        name                             = af_parking_anomaly_way_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -78.300000, 0.000000, -143.300000
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = -77.700008, 0.000000, -149.000000
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = -71.000000, 0.000000, -155.400016
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = -62.200000, 0.000000, -153.400016
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = -63.600004, 0.000000, -140.400016
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = -69.600000, 0.000000, -141.700000
+        wp_5_selected                    = on
+        wp_count                         = 6
+ 
+[object_84]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 0.000000, 1.000000
+        name                             = af_parking_anomaly_way_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -64.800004, 0.000000, -136.500000
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = -74.300000, 0.000000, -137.500000
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = -80.300000, 0.000000, -153.500000
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = -75.000000, 0.000000, -163.500000
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = -61.300000, 0.000000, -145.900016
+        wp_4_selected                    = on
+        wp_count                         = 5
+ 
+[object_85]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 0.000000, 1.000000
+        name                             = af_grove_anomaly_way_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 83.470176, 4.401642, 37.958660
+        wp_0_selected                    = off
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 95.718760, 4.735487, 24.490590
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 92.061168, 5.594061, 9.362816
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 77.246776, 6.167896, 11.912407
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 71.303296, 5.754839, 22.960434
+        wp_4_selected                    = off
+        wp_count                         = 5
+ 
+[object_86]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 5.000000, 1.000000
+        link_wp_5_0                      = 6.000000, 1.000000
+        link_wp_6_0                      = 0.000000, 1.000000
+        name                             = af_grove_anomaly_way_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 69.580984, 5.699587, 25.062854
+        wp_0_selected                    = off
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 87.757584, 4.515450, 37.846356
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 90.852992, 4.555846, 33.147686
+        wp_2_selected                    = on
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 92.754816, 5.207746, 17.352574
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 100.024624, 4.625574, 12.770467
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = 93.589296, 5.369253, 8.342488
+        wp_5_selected                    = off
+        wp_6_flags                       = 0
+        wp_6_name                        = wp06
+        wp_6_pos                         = 81.558856, 6.577328, 5.316819
+        wp_6_selected                    = off
+        wp_count                         = 7
+ 
+[object_87]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 0.000000, 1.000000
+        name                             = af_bitum_anomaly_way_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 228.870224, 12.692877, -132.445056
+        wp_0_selected                    = off
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 215.644272, 12.142038, -128.910464
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 238.046976, 10.947090, -120.255944
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 235.961056, 8.811935, -113.101592
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 221.532416, 6.535227, -111.977720
+        wp_4_selected                    = off
+        wp_count                         = 5
+ 
+[object_88]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 0.000000, 1.000000
+        name                             = af_bitum_anomaly_way_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 239.352384, 8.149563, -107.491424
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 223.714864, 5.164530, -107.301496
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 232.148400, 3.791859, -97.635280
+        wp_2_selected                    = on
+        wp_count                         = 3
+ 
+[object_89]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 5.000000, 1.000000
+        link_wp_5_0                      = 6.000000, 1.000000
+        link_wp_6_0                      = 0.000000, 1.000000
+        name                             = af_career_anomaly_way_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 260.036832, -28.744664, 88.121648
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 268.122128, -29.800000, 110.075720
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 284.132800, -29.800000, 117.231968
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 296.462784, -28.965114, 107.442208
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 282.205152, -29.800000, 86.497096
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = 265.135168, -29.466488, 67.675664
+        wp_5_selected                    = off
+        wp_6_flags                       = 0
+        wp_6_name                        = wp06
+        wp_6_pos                         = 248.101504, -29.800006, 68.718944
+        wp_6_selected                    = on
+        wp_count                         = 7
+ 
+[object_9]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = war_jup_zrk_4
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -393.282080, 11.417876, -2.117730
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_90]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 5.000000, 1.000000
+        link_wp_5_0                      = 6.000000, 1.000000
+        link_wp_6_0                      = 7.000000, 1.000000
+        link_wp_7_0                      = 8.000000, 1.000000
+        link_wp_8_0                      = 0.000000, 1.000000
+        name                             = af_career_anomaly_way_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 215.104288, -29.799996, 86.411968
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 239.854352, -26.997620, 103.580520
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 237.412208, -29.776078, 124.344448
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 244.742416, -29.800004, 146.364704
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 255.026992, -29.800000, 145.505184
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = 275.550688, -29.800004, 111.921888
+        wp_5_selected                    = off
+        wp_6_flags                       = 0
+        wp_6_name                        = wp06
+        wp_6_pos                         = 280.753952, -29.800000, 92.687464
+        wp_6_selected                    = off
+        wp_7_flags                       = 0
+        wp_7_name                        = wp07
+        wp_7_pos                         = 255.797328, -29.755554, 58.405524
+        wp_7_selected                    = off
+        wp_8_flags                       = 0
+        wp_8_name                        = wp08
+        wp_8_pos                         = 257.874208, -28.724282, 93.603560
+        wp_8_selected                    = on
+        wp_count                         = 9
+ 
+[object_91]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 5.000000, 1.000000
+        link_wp_5_0                      = 0.000000, 1.000000
+        name                             = af_fluid_anomaly_way_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 222.529744, -5.550008, 448.522496
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 232.483744, -5.550014, 452.015872
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 239.691152, -5.550012, 448.771648
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 243.035152, -5.550005, 441.170976
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 235.599088, -5.550000, 434.658336
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = 226.719632, -5.550002, 431.009664
+        wp_5_selected                    = on
+        wp_count                         = 6
+ 
+[object_92]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 5.000000, 1.000000
+        link_wp_5_0                      = 0.000000, 1.000000
+        name                             = af_fluid_anomaly_way_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 246.058400, -5.550023, 456.192512
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 256.520848, -5.460872, 433.946720
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 237.926016, -5.550000, 429.464736
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 230.461552, -5.550012, 454.839840
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 221.895008, -5.549999, 437.692320
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = 245.326912, -5.549999, 425.524896
+        wp_5_selected                    = on
+        wp_count                         = 6
+ 
+[object_93]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 5.000000, 1.000000
+        link_wp_5_0                      = 6.000000, 1.000000
+        link_wp_6_0                      = 7.000000, 1.000000
+        link_wp_7_0                      = 0.000000, 1.000000
+        name                             = af_concrete_bath_anomaly_way_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 238.482288, 15.174437, -295.860864
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 230.610304, 15.168629, -304.483904
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 230.262464, 15.168346, -312.613920
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 238.427888, 15.172911, -313.365248
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 238.426224, 15.173306, -321.340064
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = 229.451088, 15.168116, -321.615808
+        wp_5_selected                    = off
+        wp_6_flags                       = 0
+        wp_6_name                        = wp06
+        wp_6_pos                         = 226.640288, 15.164757, -317.471680
+        wp_6_selected                    = off
+        wp_7_flags                       = 0
+        wp_7_name                        = wp07
+        wp_7_pos                         = 227.463264, 15.165802, -300.597632
+        wp_7_selected                    = on
+        wp_count                         = 8
+ 
+[object_94]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 5.000000, 1.000000
+        link_wp_5_0                      = 6.000000, 1.000000
+        link_wp_6_0                      = 0.000000, 1.000000
+        name                             = af_concrete_bath_anomaly_way_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 238.699456, 15.173466, -320.325760
+        wp_0_selected                    = off
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 238.587488, 15.173452, -328.206368
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 234.387840, 15.171946, -329.994528
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 233.896432, 15.172243, -334.822624
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 241.602512, 15.174603, -333.595200
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = 242.953488, 15.174692, -325.401728
+        wp_5_selected                    = off
+        wp_6_flags                       = 0
+        wp_6_name                        = wp06
+        wp_6_pos                         = 243.932320, 15.174784, -320.584960
+        wp_6_selected                    = off
+        wp_count                         = 7
+ 

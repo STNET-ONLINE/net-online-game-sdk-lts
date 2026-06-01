@@ -4,7 +4,7 @@
  
 [main]
         flags                            = 0
-        objects_count                    = 1281
+        objects_count                    = 1283
         version                          = 0
  
 [modif]
@@ -13166,7 +13166,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1258_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0012"
+        000003                           = "war_jup_tunnel_spectrum"
         000004                           = 0
         000005                           = 254
         000006                           = -361.615136, 4.232986, 387.462688
@@ -13233,7 +13233,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1259_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0013"
+        000003                           = "war_jup_tower_block"
         000004                           = 0
         000005                           = 254
         000006                           = -163.490656, -16.653942, 352.823008
@@ -13364,7 +13364,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1260_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0014"
+        000003                           = "war_jup_yanov"
         000004                           = 0
         000005                           = 254
         000006                           = -50.052272, 3.488477, 198.371968
@@ -13426,7 +13426,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1261_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0015"
+        000003                           = "war_jup_stop"
         000004                           = 0
         000005                           = 254
         000006                           = 79.051488, 4.645402, 328.000960
@@ -13486,7 +13486,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1262_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0016"
+        000003                           = "war_jup_fluid"
         000004                           = 0
         000005                           = 254
         000006                           = 237.595760, -5.550005, 442.203520
@@ -13546,7 +13546,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1263_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0017"
+        000003                           = "war_jup_west_bridge"
         000004                           = 0
         000005                           = 254
         000006                           = 433.741824, -5.549998, 438.290592
@@ -13608,7 +13608,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1264_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0018"
+        000003                           = "war_jup_cement_plant"
         000004                           = 0
         000005                           = 254
         000006                           = 389.528672, 3.350235, 337.652832
@@ -13670,7 +13670,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1265_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0019"
+        000003                           = "war_jup_career"
         000004                           = 0
         000005                           = 254
         000006                           = 226.390992, -29.708404, 99.912744
@@ -13730,7 +13730,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1266_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0020"
+        000003                           = "war_jup_helicopter_1"
         000004                           = 0
         000005                           = 254
         000006                           = -14.849735, 1.933514, 9.246656
@@ -13792,7 +13792,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1267_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0021"
+        000003                           = "war_jup_zulus"
         000004                           = 0
         000005                           = 254
         000006                           = -11.001820, 7.440439, 249.928960
@@ -13854,7 +13854,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1268_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0022"
+        000003                           = "war_jup_bitum"
         000004                           = 0
         000005                           = 254
         000006                           = 229.972448, 9.037380, -116.116112
@@ -13914,7 +13914,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1269_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0023"
+        000003                           = "war_jup_helicopter_2"
         000004                           = 0
         000005                           = 254
         000006                           = 323.144192, -1.453661, -46.105236
@@ -14043,7 +14043,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1270_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0024"
+        000003                           = "war_jup_depot_dolg"
         000004                           = 0
         000005                           = 254
         000006                           = 144.128736, 1.185837, 213.971040
@@ -14103,7 +14103,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1271_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0025"
+        000003                           = "war_jup_structures"
         000004                           = 0
         000005                           = 254
         000006                           = 475.089920, 24.532834, -406.144576
@@ -14163,7 +14163,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1272_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0026"
+        000003                           = "war_jup_helipad"
         000004                           = 0
         000005                           = 254
         000006                           = -137.361408, 26.802662, -465.369568
@@ -14223,7 +14223,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1273_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0027"
+        000003                           = "war_jup_marsh"
         000004                           = 0
         000005                           = 254
         000006                           = -296.274144, -2.346428, -291.107616
@@ -14283,7 +14283,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1274_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0028"
+        000003                           = "war_jup_container_warehouse"
         000004                           = 0
         000005                           = 254
         000006                           = -414.417504, 0.007824, -353.506400
@@ -14343,7 +14343,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1275_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0029"
+        000003                           = "war_jup_center_bridge"
         000004                           = 0
         000005                           = 254
         000006                           = -162.140416, 3.345694, -42.880920
@@ -14403,7 +14403,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1276_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0030"
+        000003                           = "war_jup_camp_2"
         000004                           = 0
         000005                           = 254
         000006                           = 16.205555, 28.677330, -457.755840
@@ -14465,7 +14465,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1277_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0031"
+        000003                           = "war_jup_tunnel_bandit"
         000004                           = 0
         000005                           = 254
         000006                           = 399.557792, 4.279586, -115.342936
@@ -14529,7 +14529,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1278_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0032"
+        000003                           = "war_jup_concrete_bath"
         000004                           = 0
         000005                           = 254
         000006                           = 234.259744, 15.171072, -317.120832
@@ -14593,7 +14593,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1279_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = "jup_war_groups_zone_0033"
+        000003                           = "war_jup_east_tunnel"
         000004                           = 0
         000005                           = 254
         000006                           = -214.129168, 3.345671, -410.509888
@@ -14703,7 +14703,7 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
         name                             = war_jup_anomaly_grove
         position                         = 88.718504, 5.183148, 22.797388
         rotation                         = -0.062789, 0.004983, 0.079241
-        scale                            = 27.864802, 27.864802, 27.864802
+        scale                            = 1.000000, 1.000000, 1.000000
         type                             = 2
         version                          = 23
  
@@ -14713,9 +14713,9 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
         name                             = shape
         position                         = 88.718504, 5.183148, 22.797388
         rotation                         = -0.062789, 0.004983, 0.079241
-        scale                            = 27.864802, 27.864802, 27.864802
+        scale                            = 1.000000, 1.000000, 1.000000
         shape_center_0                   = 0.000000, 0.000000, 0.000000
-        shape_radius_0                   = 1.000000
+        shape_radius_0                   = 27.864802
         shape_type                       = 0
         shape_type_0                     = 0
         shapes_count                     = 1
@@ -14724,10 +14724,72 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
 [object_1280_spawndata]
         000001                           = 1
         000002                           = "war_groups_zone"
-        000003                           = ""
+        000003                           = "war_jup_anomaly_grove"
         000004                           = 0
         000005                           = 254
-        000006                           = 0.000000, 0.000000, 0.000000
+        000006                           = 88.718504, 5.183148, 22.797388
+        000007                           = -0.062789, 0.004983, 0.079241
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = 1
+        000028                           = 0
+        000029                           = 0.000000, 0.000000, 0.000000
+        000030                           = 27.864802
+        000031                           = 3
+        fl                               = 0
+        name                             = war_groups_zone
+ 
+[object_1281]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = war_jup_jupiter
+        position                         = 348.632064, 27.544362, -352.004096
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_1281_attached_0]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape
+        position                         = 348.632064, 27.544362, -352.004096
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 142.406544, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 11.277816, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 111.894168
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_1281_spawndata]
+        000001                           = 1
+        000002                           = "war_groups_zone"
+        000003                           = "jup_war_groups_zone"
+        000004                           = 0
+        000005                           = 254
+        000006                           = 348.632064, 27.544362, -352.004096
         000007                           = 0.000000, 0.000000, 0.000000
         000008                           = 0
         000009                           = 65535
@@ -14748,8 +14810,77 @@ cfg = scripts\jupiter_stnet\spawn_elements\shooting_target.ltx"
         000024                           = ""
         000025                           = -1
         000026                           = -1
-        000027                           = 0
-        000028                           = 3
+        000027                           = 1
+        000028                           = 1
+        000029                           = 142.406544, 0.000000, 0.000000
+        000030                           = 0.000000, 11.277816, 0.000000
+        000031                           = 0.000000, 0.000000, 111.894168
+        000032                           = 0.000000, 0.000000, 0.000000
+        000033                           = 3
+        fl                               = 0
+        name                             = war_groups_zone
+ 
+[object_1282]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = war_jup_administrative
+        position                         = 399.919744, 39.341356, -210.839392
+        rotation                         = 0.000084, 0.000000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_1282_attached_0]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape
+        position                         = 399.919744, 39.341356, -210.839392
+        rotation                         = 0.000084, 0.000000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 17.200400, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 24.243198, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 51.873180
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_1282_spawndata]
+        000001                           = 1
+        000002                           = "war_groups_zone"
+        000003                           = "war_jup_administrative"
+        000004                           = 0
+        000005                           = 254
+        000006                           = 399.919744, 39.341356, -210.839392
+        000007                           = 0.000084, 0.000000, -0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = 1
+        000028                           = 1
+        000029                           = 17.200400, 0.000000, 0.000000
+        000030                           = 0.000000, 24.243198, 0.000000
+        000031                           = 0.000000, 0.000000, 51.873180
+        000032                           = 0.000000, 0.000000, 0.000000
+        000033                           = 3
         fl                               = 0
         name                             = war_groups_zone
  
@@ -17885,8 +18016,8 @@ ignore_static"
         000003                           = "zone_burning_fuzz_weak_0013"
         000004                           = 0
         000005                           = 254
-        000006                           = -332.193472, 4.572150, 261.834816
-        000007                           = 0.000000, -0.648000, 0.000000
+        000006                           = -332.093376, 4.914564, 261.860176
+        000007                           = 0.000001, -0.962108, 0.000002
         000008                           = 0
         000009                           = 65535
         000010                           = 65535
