@@ -279,6 +279,39 @@ inv_grid_height     = 1
 
 script_binding      = bind_physic_object.init
 
+[car_respawn_point]
+GroupControlSection	= spawn_group
+discovery_dependency =
+cform = skeleton
+class = S_INVBOX
+
+visual = editor\editor_vehicle_2.ogf
+script_binding = car_respawn.init_point
+
+[item_respawn_point]
+$spawn = "mp_respawn\item_respawn"
+GroupControlSection	= spawn_group
+discovery_dependency =
+cform = skeleton
+class = S_INVBOX
+
+visual = editor\editor_respawn_object.ogf
+
+script_binding = item_respawn.init_point
+custom_data = editor\item_respawn_point.ltx
+
+[editor_vehicle_1]:car_respawn_point
+$spawn = "vehicles\respawn\truck_respawn"
+visual = editor\editor_vehicle_1.ogf
+
+[editor_vehicle_2]:car_respawn_point
+$spawn = "vehicles\respawn\car_respawn"
+visual = editor\editor_vehicle_2.ogf
+
+[editor_vehicle_3]:car_respawn_point
+$spawn = "vehicles\respawn\military_respawn"
+visual = editor\editor_vehicle_3.ogf
+
 
 [actor_firsteye_cam]
 lim_pitch                = -1.5, 1.5
