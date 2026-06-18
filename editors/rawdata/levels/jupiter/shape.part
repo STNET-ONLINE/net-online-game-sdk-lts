@@ -1,0 +1,706 @@
+[guid]
+        guid_g0                          = 4816257301467301627
+        guid_g1                          = 4960127225431719567
+ 
+[main]
+        objects_count                    = 43
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = level_bbox
+        position                         = 0.000000, 13.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1200.000000, 110.000000, 1200.000000
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 1.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 1.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 1.000000
+        shape_type                       = 1
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_1]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b46
+        position                         = -161.025024, 3.278080, 390.713312
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_10]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b206
+        position                         = 53.884924, 11.868912, -20.646588
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_11]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b25
+        position                         = 308.940800, -34.929108, 118.709480
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_12]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b207
+        position                         = 159.746000, -0.203239, 205.766080
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_13]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b202
+        position                         = 77.079008, 3.238983, 349.001920
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_14]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b211
+        position                         = 228.158544, -4.504531, 407.326912
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_15]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b200
+        position                         = 356.377472, 33.426124, 335.578720
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_16]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_a6
+        position                         = -34.664604, 3.569214, 198.115024
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 100.000000, 100.000000, 100.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_17]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_1
+        position                         = -245.164576, 0.918274, -114.750568
+        rotation                         = -0.000000, 0.003302, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_18]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_2
+        position                         = -222.381712, 3.345673, -374.382624
+        rotation                         = -0.000000, 0.003292, -0.000001
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_19]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_3
+        position                         = -200.430016, -3.931925, 200.982768
+        rotation                         = 0.111999, 0.073851, 0.017751
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_2]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b19
+        position                         = -340.544256, -3.764374, 243.835264
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_20]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_5
+        position                         = 431.549088, 4.603668, 49.342040
+        rotation                         = -0.000014, 0.050594, -0.000091
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_21]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_6
+        position                         = 194.321648, -19.786434, 19.372462
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_22]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_4
+        position                         = 432.627552, 0.880066, 232.103120
+        rotation                         = -0.000866, 0.050582, -0.014418
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_23]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_7
+        position                         = 286.294784, -4.675781, 226.022064
+        rotation                         = 0.030818, 0.047873, 0.085301
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_24]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_8
+        position                         = -59.691284, -0.181519, 481.392544
+        rotation                         = 0.304303, 0.080104, -0.118762
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_25]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_9
+        position                         = -396.603392, -0.007935, 105.568112
+        rotation                         = 0.017894, 0.089156, 0.030561
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_26]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_10
+        position                         = -343.815552, 1.628510, -454.435008
+        rotation                         = 0.003772, 0.089088, -0.004822
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_27]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_11
+        position                         = -14.189911, 38.463408, -466.053120
+        rotation                         = -0.044475, 0.091115, 0.042004
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_28]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_12
+        position                         = -170.493728, 26.800446, -482.809344
+        rotation                         = -0.000000, 0.091115, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_29]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_13
+        position                         = -88.784072, 0.204651, -0.682510
+        rotation                         = -0.000000, 0.003292, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_3]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b41
+        position                         = -204.963872, -3.819328, 73.652256
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_30]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_14
+        position                         = -39.479488, 3.290375, 340.762624
+        rotation                         = -0.000053, 0.003292, -0.000098
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_31]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_15
+        position                         = 91.588560, 2.730011, 101.923144
+        rotation                         = 0.017273, -0.023245, -0.030946
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_32]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_16
+        position                         = -416.512096, 2.869964, -102.133560
+        rotation                         = -0.055218, 0.080081, 0.007577
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_33]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_17
+        position                         = 178.488336, 23.963806, -263.433904
+        rotation                         = -0.000000, 0.003292, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_34]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_18
+        position                         = 234.996544, 28.159988, -464.533088
+        rotation                         = -0.004406, 0.005278, 0.000459
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_35]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_sim_19
+        position                         = 429.556640, 27.466462, -435.104000
+        rotation                         = 0.016236, 0.003866, 0.068272
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_1                   = 0.018326, -0.000023, 0.037144
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 10.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 30.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 10.000000
+        shape_radius_1                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_36]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b6_anom_2
+        position                         = -403.851712, 17.654968, 307.730528
+        rotation                         = 0.000034, 0.000260, 0.004745
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_37]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b47
+        position                         = 408.647200, 26.706336, -243.542272
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_38]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_a10_smart_terrain
+        position                         = 43.541596, 23.963836, -190.736880
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_39]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b1
+        position                         = -341.028576, 3.718145, 407.981984
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 75.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_4]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b205_smart_terrain
+        position                         = -392.852160, 2.641607, -2.324791
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_40]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b4
+        position                         = -384.187168, -2.140266, -228.238800
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_41]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b32
+        position                         = -109.848200, -0.371475, -145.145856
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_42]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b203
+        position                         = -200.792448, -0.090839, -270.412544
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_5]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_a12
+        position                         = -451.007808, 0.101519, -371.964576
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_6]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b212
+        position                         = -73.375184, 23.913536, -320.742016
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_7]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b204
+        position                         = 123.158040, 17.450698, -395.643296
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_8]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b208
+        position                         = 399.896192, 3.903686, -89.989328
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_9]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape_jup_b209
+        position                         = 206.550000, 23.206024, -130.033968
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 75.000000, 75.000000, 75.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 1.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
