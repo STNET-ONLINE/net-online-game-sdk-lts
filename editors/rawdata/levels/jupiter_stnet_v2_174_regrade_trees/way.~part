@@ -3,7 +3,7 @@
         guid_g1                          = 4960127225431719567
  
 [main]
-        objects_count                    = 95
+        objects_count                    = 96
         version                          = 0
  
 [modif]
@@ -1823,4 +1823,35 @@
         wp_6_pos                         = 243.932320, 15.174784, -320.584960
         wp_6_selected                    = off
         wp_count                         = 7
+ 
+[object_95]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 0.000000, 1.000000
+        name                             = jup_zombied_boss_walker_1_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp01
+        wp_0_pos                         = -38.811024, 15.360823, -323.166016
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp02
+        wp_1_pos                         = -29.980916, 15.360823, -322.875456
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp03
+        wp_2_pos                         = -32.402112, 16.601095, -329.178016
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp04
+        wp_3_pos                         = -37.687080, 16.944184, -328.343648
+        wp_3_selected                    = off
+        wp_count                         = 4
  
