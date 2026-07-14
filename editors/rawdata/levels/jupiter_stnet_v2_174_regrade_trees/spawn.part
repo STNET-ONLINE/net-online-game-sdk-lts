@@ -4,7 +4,7 @@
  
 [main]
         flags                            = 0
-        objects_count                    = 1296
+        objects_count                    = 1297
         version                          = 0
  
 [modif]
@@ -16218,6 +16218,63 @@ cfg = scripts\jupiter_stnet\smart\jup_zombied_boss_squad_2.ltx"
         000025                           = -1
         000026                           = -1
         000027                           = "dynamics\box\box_1c"
+        000028                           = 0
+        000029                           = 1
+        000030                           = 0
+        000031                           = "inventory_box_use"
+        fl                               = 0
+        name                             = inventory_box
+ 
+[object_1296]
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = jup_inventory_box_0002
+        position                         = -33.950420, 3.572168, 198.512240
+        rotation                         = 0.008889, 0.000103, -0.011560
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_1296_spawndata]
+        000001                           = 1
+        000002                           = "inventory_box"
+        000003                           = "jup_inventory_box_0002"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -33.950420, 3.572168, 198.512240
+        000007                           = 0.008889, 0.000103, -0.011560
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -193
+        000024                           = "[inventory_box_search]
+enabled = true ; явл€етс€ тайником Dying Light типа
+cooldown = 3600 ; кд его восстановлени€
+distance = 3.0 ; дистаци€ работы
+max_easy_sections = 3 ; сколько секций легко подн€ть
+extra_section_chance_factor = 0.35 ; понижение шанса выпадени€ после секций из max_easy_sections и каждую секцию умножаетс€
+loot_section = inventory_box_search_loot ; секци€ лута
+
+
+[inventory_box_search_loot]
+wpn_ak74 = 1, prob=0.01
+medkit = 2, prob=0.15
+ammo_5.45x39_fmj = 3, prob=0.35"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\balon\balon_01"
         000028                           = 0
         000029                           = 1
         000030                           = 0
@@ -57023,8 +57080,8 @@ cfg = scripts\jupiter_stnet\mutants\boar.ltx"
         000003                           = "jup_smart_terrain_0016"
         000004                           = 0
         000005                           = 254
-        000006                           = -238.152320, 1.848930, -94.294952
-        000007                           = 0.000000, 0.000000, 0.000000
+        000006                           = 432.943424, 26.970990, -423.308864
+        000007                           = 0.030639, -0.001047, 0.034163
         000008                           = 0
         000009                           = 65535
         000010                           = 65535
