@@ -1,0 +1,694 @@
+[guid]
+        guid_g0                          = 5065284203709945560
+        guid_g1                          = 13177767572218497455
+ 
+[main]
+        objects_count                    = 5
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 0
+        co_flags                         = 0
+        ingroup_count                    = 3
+        name                             = objects\cabinet\shkaf_lab_02
+        position                         = -99.140640, -32.401344, 90.954248
+        ref_name                         = objects\cabinet\shkaf_lab_02
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_0_ingroup_0]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\shkaf_lab_02_0000
+        position                         = -99.140640, -32.401344, 90.954248
+        reference_name                   = statics\shkaf\shkaf_lab_02
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_0_ingroup_1]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = shkaf_lab_01_door_l
+        position                         = -100.525416, -32.259384, 90.573720
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_0_ingroup_1_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shkaf_lab_01_door_l"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -100.525416, -32.259384, 90.573720
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_large.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shkaf_lab_01_door_l"
+        000028                           = 1
+        000029                           = ""
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 
+[object_0_ingroup_2]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = shkaf_lab_01_door_r
+        position                         = -97.755864, -32.259384, 90.573720
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_0_ingroup_2_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shkaf_lab_01_door_r"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -97.755864, -32.259384, 90.573720
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_large.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shkaf_lab_01_door_r"
+        000028                           = 1
+        000029                           = ""
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 
+[object_1]
+        clsid                            = 0
+        co_flags                         = 0
+        ingroup_count                    = 2
+        name                             = objects\cabinet\shkaf_lab_01
+        position                         = -111.191208, -32.401344, 88.182544
+        ref_name                         = objects\cabinet\shkaf_lab_01
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_1_ingroup_0]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\shkaf_lab_01
+        position                         = -111.191208, -32.401344, 88.182544
+        reference_name                   = statics\shkaf\shkaf_lab_01
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_1_ingroup_1]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = shkaf_lab_01_door_l_0000
+        position                         = -110.811032, -32.280918, 87.870752
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_1_ingroup_1_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shkaf_lab_01_door_l_0000"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -110.811032, -32.280918, 87.870752
+        000007                           = 0.000000, 1.570796, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_large.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shkaf_lab_01_door_l"
+        000028                           = 1
+        000029                           = ""
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 
+[object_2]
+        clsid                            = 0
+        co_flags                         = 3
+        ingroup_count                    = 4
+        name                             = objects\cabinet\cabinet_work_01
+        position                         = -67.514912, -16.003183, 56.522856
+        ref_name                         = objects\cabinet\cabinet_work_01
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_2_ingroup_0]
+        clsid                            = 2
+        co_flags                         = 2
+        flags                            = 0
+        name                             = statics\shkaf\shkaf_work_01_0002
+        position                         = -67.514912, -16.003183, 56.522856
+        reference_name                   = statics\shkaf\shkaf_work_01
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_2_ingroup_1]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = shkaf_work_01_door_0001
+        position                         = -67.010956, -15.933184, 56.242864
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_2_ingroup_1_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shkaf_work_01_door_0001"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -67.010956, -15.933184, 56.242864
+        000007                           = 0.000000, 1.570796, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_small_unlocked.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shkaf_work_01_door"
+        000028                           = 1
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 
+[object_2_ingroup_2]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = shkaf_work_01_door_0002
+        position                         = -67.010940, -15.933184, 56.762864
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_2_ingroup_2_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shkaf_work_01_door_0002"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -67.010940, -15.933184, 56.762864
+        000007                           = 0.000000, 1.570796, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_small_unlocked.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shkaf_work_01_door"
+        000028                           = 1
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 
+[object_2_ingroup_3]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = shkaf_work_01_door_0003
+        position                         = -67.010932, -15.933184, 57.272852
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_2_ingroup_3_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shkaf_work_01_door_0003"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -67.010932, -15.933184, 57.272852
+        000007                           = 0.000000, 1.570796, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_small_unlocked.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shkaf_work_01_door"
+        000028                           = 1
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 
+[object_3]
+        clsid                            = 0
+        co_flags                         = 0
+        ingroup_count                    = 3
+        name                             = objects\cabinet\shop_fridge_1
+        position                         = -93.332368, -15.938184, 81.442512
+        ref_name                         = objects\cabinet\shop_fridge_1
+        rotation                         = -0.000000, -3.427199, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_3_ingroup_0]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\trade_shops\shop_fridge_1
+        position                         = -93.332368, -15.938184, 81.442512
+        reference_name                   = statics\trade_shops\shop_fridge_1
+        rotation                         = 0.000000, -3.427199, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_3_ingroup_1]
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = shop_fridge_1_door_r
+        position                         = -93.816984, -15.478184, 82.418592
+        rotation                         = 0.000000, -3.427199, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_3_ingroup_1_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shop_fridge_1_door_r"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -93.816984, -15.478184, 82.418592
+        000007                           = 0.000000, -3.427199, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 1
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_large.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shop_fridge_1_door_r"
+        000028                           = 1
+        000029                           = ""
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 
+[object_3_ingroup_2]
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = shop_fridge_1_door_l
+        position                         = -92.377768, -15.478184, 81.995992
+        rotation                         = 0.000000, -3.427199, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_3_ingroup_2_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shop_fridge_1_door_l"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -92.377768, -15.478184, 81.995992
+        000007                           = 0.000000, -3.427199, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 1
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_large.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shop_fridge_1_door_l"
+        000028                           = 1
+        000029                           = ""
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 
+[object_4]
+        clsid                            = 0
+        co_flags                         = 3
+        ingroup_count                    = 4
+        name                             = objects\cabinet\cabinet_work_01_0000
+        position                         = -61.001108, -24.204124, 72.402984
+        ref_name                         = objects\cabinet\cabinet_work_01
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_4_ingroup_0]
+        clsid                            = 2
+        co_flags                         = 2
+        flags                            = 0
+        name                             = statics\shkaf\shkaf_work_01_0001
+        position                         = -61.001108, -24.204124, 72.402984
+        reference_name                   = statics\shkaf\shkaf_work_01
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_4_ingroup_1]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = shkaf_work_01_door_0000
+        position                         = -61.505128, -24.134124, 72.682840
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_4_ingroup_1_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shkaf_work_01_door_0000"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -61.505128, -24.134124, 72.682840
+        000007                           = 0.000000, -1.570796, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_small_unlocked.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shkaf_work_01_door"
+        000028                           = 1
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 
+[object_4_ingroup_2]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = shkaf_work_01_door_0004
+        position                         = -61.505048, -24.134124, 72.162968
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_4_ingroup_2_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shkaf_work_01_door_0004"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -61.505048, -24.134124, 72.162968
+        000007                           = 0.000000, -1.570796, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_small_unlocked.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shkaf_work_01_door"
+        000028                           = 1
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 
+[object_4_ingroup_3]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = shkaf_work_01_door_0005
+        position                         = -61.505140, -24.134124, 71.652920
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_4_ingroup_3_spawndata]
+        000001                           = 1
+        000002                           = "physic_destroyable_object"
+        000003                           = "shkaf_work_01_door_0005"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -61.505140, -24.134124, 71.652920
+        000007                           = 0.000000, -1.570796, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static
+
+[logic]
+cfg = scripts\door_metal_small_unlocked.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\door\shkaf_work_01_door"
+        000028                           = 1
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = "link"
+        fl                               = 0
+        name                             = physic_destroyable_object
+ 

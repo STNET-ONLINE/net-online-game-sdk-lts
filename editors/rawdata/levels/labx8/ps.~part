@@ -1,0 +1,23 @@
+[guid]
+        guid_g0                          = 5065284203709945560
+        guid_g1                          = 13177767572218497455
+ 
+[main]
+        objects_count                    = 1
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 11
+        co_flags                         = 0
+        game_type                        = 65535
+        name                             = industrial_0000
+        position                         = -76.429192, -25.461156, 70.090608
+        ref_name                         = industrial_particles\exhaust_isparenie_blue_down
+        rotation                         = 1.221731, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 19
+ 

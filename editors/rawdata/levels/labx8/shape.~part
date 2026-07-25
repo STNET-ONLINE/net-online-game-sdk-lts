@@ -1,0 +1,28 @@
+[guid]
+        guid_g0                          = 5065284203709945560
+        guid_g1                          = 13177767572218497455
+ 
+[main]
+        objects_count                    = 1
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = level_bbox
+        position                         = -81.440560, -7.444650, 85.614072
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 82.000000, 82.000000, 82.000000
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 1.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 1.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 1.000000
+        shape_type                       = 1
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 

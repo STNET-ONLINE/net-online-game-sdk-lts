@@ -1,0 +1,159 @@
+[guid]
+        guid_g0                          = 5065284203709945560
+        guid_g1                          = 13177767572218497455
+ 
+[main]
+        objects_count                    = 7
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        active_time                      = 0.000000, 0.000000
+        clsid                            = 5
+        co_flags                         = 2
+        flags                            = 1550611827
+        freq                             = 1.000000
+        max_ai_dist                      = 50.000000
+        max_dist                         = 200.000000
+        min_dist                         = 15.000000
+        name                             = air_2_0000
+        play_time                        = 0.000000, 0.000000
+        position                         = 0.000000, 0.000000, 0.000000
+        random_pause                     = 0.000000, 0.000000
+        rotation                         = 0.236306, -1.954567, -1.744793
+        scale                            = 1.000000, 1.000000, 1.000000
+        snd_name                         = ambient\air_2
+        snd_position                     = -71.280304, -3.343151, 64.624260
+        snd_type                         = 0
+        version                          = 20
+        volume                           = 1.000000
+ 
+[object_1]
+        active_time                      = 0.000000, 0.000000
+        clsid                            = 5
+        co_flags                         = 2
+        flags                            = 139
+        freq                             = 1.000000
+        max_ai_dist                      = 20.000000
+        max_dist                         = 50.000000
+        min_dist                         = 0.800000
+        name                             = steam_2_0002
+        play_time                        = 0.000000, 0.000000
+        position                         = 0.000000, 0.000000, 0.000000
+        random_pause                     = 0.000000, 0.000000
+        rotation                         = -0.402850, 0.137661, 0.193220
+        scale                            = 1.000000, 1.000000, 1.000000
+        snd_name                         = ambient\underground\steam_2
+        snd_position                     = -76.398800, -25.489048, 70.159080
+        snd_type                         = 0
+        version                          = 20
+        volume                           = 1.000000
+ 
+[object_2]
+        active_time                      = 0.000000, 0.000000
+        clsid                            = 5
+        co_flags                         = 2
+        flags                            = -1691506005
+        freq                             = 1.000000
+        max_ai_dist                      = 20.000000
+        max_dist                         = 50.000000
+        min_dist                         = 1.200000
+        name                             = lamp_squeaks_0001
+        play_time                        = 0.000000, 0.000000
+        position                         = 0.000000, 0.000000, 0.000000
+        random_pause                     = 0.000000, 0.000000
+        rotation                         = 0.000000, -1.570796, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        snd_name                         = ambient\lamp_squeaks_1
+        snd_position                     = -79.494200, -8.325560, 57.494964
+        snd_type                         = 0
+        version                          = 20
+        volume                           = 1.000000
+ 
+[object_3]
+        active_time                      = 0.000000, 0.000000
+        clsid                            = 5
+        co_flags                         = 2
+        flags                            = 1550611827
+        freq                             = 1.000000
+        max_ai_dist                      = 300.000000
+        max_dist                         = 300.000000
+        min_dist                         = 1.000000
+        name                             = water_0000
+        play_time                        = 0.000000, 0.000000
+        position                         = 0.000000, 0.000000, 0.000000
+        random_pause                     = 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000265, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        snd_name                         = ambient\waterdrops2
+        snd_position                     = -59.634024, -16.039265, 59.698452
+        snd_type                         = 0
+        version                          = 20
+        volume                           = 1.000000
+ 
+[object_4]
+        active_time                      = 0.000000, 0.000000
+        clsid                            = 5
+        co_flags                         = 2
+        flags                            = 1550611827
+        freq                             = 1.000000
+        max_ai_dist                      = 2.000000
+        max_dist                         = 50.000000
+        min_dist                         = 3.000000
+        name                             = bubbles_0000
+        play_time                        = 0.000000, 0.000000
+        position                         = 0.000000, 0.000000, 0.000000
+        random_pause                     = 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000265, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        snd_name                         = ambient\special\marsh_bubbles
+        snd_position                     = -75.071224, -29.199168, 64.574508
+        snd_type                         = 0
+        version                          = 20
+        volume                           = 1.000000
+ 
+[object_5]
+        active_time                      = 0.000000, 0.000000
+        clsid                            = 5
+        co_flags                         = 2
+        flags                            = 1550611827
+        freq                             = 1.000000
+        max_ai_dist                      = 2.000000
+        max_dist                         = 50.000000
+        min_dist                         = 3.000000
+        name                             = bubbles_0001
+        play_time                        = 0.000000, 0.000000
+        position                         = 0.000000, 0.000000, 0.000000
+        random_pause                     = 0.000000, 0.000000
+        rotation                         = -0.000000, 0.000265, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        snd_name                         = ambient\special\marsh_bubbles
+        snd_position                     = -84.142176, -29.199168, 64.475084
+        snd_type                         = 0
+        version                          = 20
+        volume                           = 1.000000
+ 
+[object_6]
+        active_time                      = 0.000000, 0.000000
+        clsid                            = 5
+        co_flags                         = 2
+        flags                            = 1550611827
+        freq                             = 1.000000
+        max_ai_dist                      = 300.000000
+        max_dist                         = 300.000000
+        min_dist                         = 1.000000
+        name                             = water_0001
+        play_time                        = 0.000000, 0.000000
+        position                         = 0.000000, 0.000000, 0.000000
+        random_pause                     = 0.000000, 0.000000
+        rotation                         = -0.000000, 0.000265, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        snd_name                         = ambient\waterdrops2
+        snd_position                     = -97.152344, -16.039265, 97.872184
+        snd_type                         = 0
+        version                          = 20
+        volume                           = 1.000000
+ 

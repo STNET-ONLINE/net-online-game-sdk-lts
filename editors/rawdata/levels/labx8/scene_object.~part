@@ -1,0 +1,1703 @@
+[appendrandom]
+        AppendRandomMaxRotation          = 0.000000, 0.000000, 0.000000
+        AppendRandomMaxScale             = 1.000000, 1.000000, 1.000000
+        AppendRandomMinRotation          = 0.000000, 0.000000, 0.000000
+        AppendRandomMinScale             = 1.000000, 1.000000, 1.000000
+        AppendRandomObjects_size         = 0
+ 
+[guid]
+        guid_g0                          = 5065284203709945560
+        guid_g1                          = 13177767572218497455
+ 
+[main]
+        flags                            = 0
+        objects_count                    = 153
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_school_01_0001
+        position                         = -43.298708, -20.553184, 67.121576
+        reference_name                   = statics\stol\stol_school_01
+        rotation                         = -0.005102, 1.283445, 0.017262
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_1]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_4_0000
+        position                         = -80.207224, -15.937933, 114.095256
+        reference_name                   = statics\stol\stol_4
+        rotation                         = 0.000105, -2.873988, 0.000073
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_10]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shelf\shelf_lab_01_br2_0001
+        position                         = -106.298504, -32.401344, 73.027648
+        reference_name                   = statics\shelf\shelf_lab_01_br2
+        rotation                         = 0.000000, -3.141593, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_100]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_9
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_9
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_101]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\trade_shops\shop_fridge_4
+        position                         = -90.137192, -15.938121, 82.800208
+        reference_name                   = statics\trade_shops\shop_fridge_4
+        rotation                         = 0.000085, -4.620600, -0.000150
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_102]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\trade_shops\shop_fridge_5
+        position                         = -91.059776, -15.937864, 88.110640
+        reference_name                   = statics\trade_shops\shop_fridge_5
+        rotation                         = 0.000085, -4.305599, -0.000150
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_103]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\trade_shops\vesy_1_0000
+        position                         = -89.715696, -15.266986, 83.643936
+        reference_name                   = statics\trade_shops\vesy_1
+        rotation                         = 0.000142, 1.481400, 0.000099
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_104]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\shelf_village_140x210_ph
+        position                         = -94.003248, -15.937675, 96.440752
+        reference_name                   = statics\shkaf\shelf_village_140x210_ph
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_105]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\shelf_village_140x210_ph_0000
+        position                         = -93.901232, -15.937497, 97.980784
+        reference_name                   = statics\shkaf\shelf_village_140x210_ph
+        rotation                         = -1.574287, -1.221001, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_106]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shelf\shelf_lab_01_0001
+        position                         = -93.650200, -15.938184, 88.046224
+        reference_name                   = statics\shelf\shelf_lab_01
+        rotation                         = -0.000000, -1.570796, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_107]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\firestation\fire_plug_3
+        position                         = -89.899952, -24.323184, 71.559280
+        reference_name                   = statics\firestation\fire_plug_3
+        rotation                         = 0.000000, -1.540799, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_108]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\shkaf_work_01_0004
+        position                         = -61.004720, -24.204124, 73.989104
+        reference_name                   = statics\shkaf\shkaf_work_01
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_109]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_lift_0000
+        position                         = -73.273200, -13.473948, 75.133392
+        reference_name                   = statics\sign\sign_indoor_lift
+        rotation                         = 0.003957, -2.354328, 1.570782
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_11]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shelf\shelf_lab_01_0002
+        position                         = -102.721304, -32.325752, 73.026928
+        reference_name                   = statics\shelf\shelf_lab_01
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_110]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow
+        position                         = -73.271936, -13.957175, 75.132120
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = 0.000000, -2.354328, 1.570782
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_111]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_documents
+        position                         = -77.939472, -12.490961, 70.266680
+        reference_name                   = statics\sign\sign_documents
+        rotation                         = -3.153810, -1.570796, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_112]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_classroom
+        position                         = -62.550292, -12.800431, 70.885560
+        reference_name                   = statics\sign\sign_indoor_classroom
+        rotation                         = -3.141593, 0.000000, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_113]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_cafe
+        position                         = -90.325696, -13.035657, 79.872944
+        reference_name                   = statics\sign\sign_indoor_cafe
+        rotation                         = 0.000000, -1.571084, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_114]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0000
+        position                         = -90.332592, -13.508820, 79.872944
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = 0.000000, -1.571084, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_115]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_compcenter
+        position                         = -72.796760, -22.019916, 78.987464
+        reference_name                   = statics\sign\sign_indoor_compcenter
+        rotation                         = -3.141593, 0.000000, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_116]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0001
+        position                         = -72.796760, -22.514232, 78.981376
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = 0.000000, -0.000000, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_117]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_compcenter_0000
+        position                         = -86.743712, -21.513346, 79.190608
+        reference_name                   = statics\sign\sign_indoor_compcenter
+        rotation                         = -3.141593, 0.000000, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_118]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0002
+        position                         = -86.743712, -22.044812, 79.192248
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = 0.000000, -0.000000, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_119]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_lab_1
+        position                         = -86.185032, -25.937816, 64.474700
+        reference_name                   = statics\sign\sign_indoor_lab_1
+        rotation                         = 0.000000, -0.000584, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_12]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shelf\shelf_lab_02_br1
+        position                         = -99.726840, -31.951336, 73.229224
+        reference_name                   = statics\shelf\shelf_lab_02_br1
+        rotation                         = -1.558731, -1.211783, -1.551601
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_120]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0003
+        position                         = -86.185032, -26.474258, 64.473840
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = 0.000000, -0.000584, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_121]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_lab_1_0000
+        position                         = -86.482296, -26.156632, 77.365192
+        reference_name                   = statics\sign\sign_indoor_lab_1
+        rotation                         = -0.000000, -0.000400, 1.570900
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_122]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0004
+        position                         = -86.482352, -26.656796, 77.367592
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = -3.141593, 0.000000, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_123]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_lab_2
+        position                         = -58.981760, -17.036334, 79.987256
+        reference_name                   = statics\sign\sign_indoor_lab_2
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_124]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_wc_man
+        position                         = -62.550428, -12.841846, 67.000784
+        reference_name                   = statics\sign\sign_indoor_wc_man
+        rotation                         = -3.141593, 0.000000, -1.572542
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_125]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_wc_woman
+        position                         = -62.549552, -12.827874, 55.830688
+        reference_name                   = statics\sign\sign_indoor_wc_woman
+        rotation                         = -3.141593, 0.000000, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_126]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_no_smoking
+        position                         = -52.894712, -13.285200, 67.204488
+        reference_name                   = statics\sign\sign_no_smoking
+        rotation                         = 0.001209, 3.141592, 1.570796
+        scale                            = 0.789400, 0.789400, 0.789400
+        version                          = 18
+ 
+[object_127]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_wc_man_0000
+        position                         = -94.170520, -12.761633, 90.475568
+        reference_name                   = statics\sign\sign_indoor_wc_man
+        rotation                         = -0.000000, 0.000005, 1.570793
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_128]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_wc_woman_0000
+        position                         = -94.170520, -12.753901, 104.501016
+        reference_name                   = statics\sign\sign_indoor_wc_woman
+        rotation                         = 0.000000, -0.000001, 1.570795
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_129]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_stuff
+        position                         = -87.147608, -17.023092, 83.780544
+        reference_name                   = statics\sign\sign_indoor_stuff
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_13]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_lab_2_0001
+        position                         = -91.115488, -32.401344, 79.491024
+        reference_name                   = statics\stol\stol_lab_2
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_130]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_stuff_0000
+        position                         = -75.651088, -17.047194, 83.780144
+        reference_name                   = statics\sign\sign_indoor_stuff
+        rotation                         = 0.000000, -1.570796, 1.571901
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_131]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_stuff_0001
+        position                         = -80.993848, -17.075944, 83.780088
+        reference_name                   = statics\sign\sign_indoor_stuff
+        rotation                         = 0.000000, -1.570796, 1.571901
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_132]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_no_smoking_0000
+        position                         = -103.950168, -13.398452, 90.365368
+        reference_name                   = statics\sign\sign_no_smoking
+        rotation                         = 0.000000, -0.000000, 1.570796
+        scale                            = 0.708400, 0.708400, 0.708400
+        version                          = 18
+ 
+[object_133]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_lift
+        position                         = -72.796760, -22.006358, 74.707184
+        reference_name                   = statics\sign\sign_indoor_lift
+        rotation                         = -3.141593, 0.000000, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_134]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0005
+        position                         = -72.796760, -22.512784, 74.708624
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = -3.141593, 0.000000, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_135]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_lift_0001
+        position                         = -72.796760, -26.159290, 74.697160
+        reference_name                   = statics\sign\sign_indoor_lift
+        rotation                         = 0.000000, 3.141592, 1.570793
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_136]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0006
+        position                         = -72.796760, -26.659552, 74.703176
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = 0.000000, 3.141592, 1.570793
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_137]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_lift_0002
+        position                         = -60.991592, -17.679104, 76.425800
+        reference_name                   = statics\sign\sign_indoor_lift
+        rotation                         = 0.000000, -0.000000, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_138]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0007
+        position                         = -60.991592, -18.166574, 76.426880
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = -3.141593, 0.000000, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_139]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\street\sodavoda
+        position                         = -93.719312, -15.937632, 93.055040
+        reference_name                   = statics\street\sodavoda
+        rotation                         = 0.000031, 0.000000, -0.000131
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_14]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shelf\shelf_lab_01_0003
+        position                         = -91.067680, -32.325752, 76.209344
+        reference_name                   = statics\shelf\shelf_lab_01
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_140]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\street\sodavoda_0000
+        position                         = -93.576520, -15.937637, 94.272648
+        reference_name                   = statics\street\sodavoda
+        rotation                         = 0.000031, 0.340200, -0.000131
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_141]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\street\sodavoda_0001
+        position                         = -61.457672, -28.303650, 75.393880
+        reference_name                   = statics\street\sodavoda
+        rotation                         = 0.000000, -3.067200, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_142]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_classroom_0000
+        position                         = -73.140616, -13.465801, 70.409288
+        reference_name                   = statics\sign\sign_indoor_classroom
+        rotation                         = -3.141593, -0.785398, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_143]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0008
+        position                         = -73.144456, -13.950748, 70.405448
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = -0.000000, -0.785398, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_144]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_lab_1_0001
+        position                         = -82.526264, -13.462697, 70.047880
+        reference_name                   = statics\sign\sign_indoor_lab_1
+        rotation                         = 0.000000, 0.785394, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_145]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_cafe_0000
+        position                         = -83.061008, -13.466537, 70.582624
+        reference_name                   = statics\sign\sign_indoor_cafe
+        rotation                         = 0.000000, 0.785394, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_146]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0009
+        position                         = -82.522968, -13.979830, 70.044576
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = -3.141593, 0.785398, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_147]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0010
+        position                         = -83.061984, -13.984334, 70.583600
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = 0.000000, 0.785394, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_148]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_lab_1_0002
+        position                         = -67.820728, -17.859968, 65.963812
+        reference_name                   = statics\sign\sign_indoor_lab_1
+        rotation                         = -3.141593, 0.000000, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_149]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0011
+        position                         = -67.820728, -18.350852, 65.960104
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = 0.000000, 0.000003, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_15]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\antena_01_0000
+        position                         = -111.429904, -31.501332, 85.187400
+        reference_name                   = statics\technica\antena_01
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_150]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_lab_1_0003
+        position                         = -71.391408, -17.561882, 70.495120
+        reference_name                   = statics\sign\sign_indoor_lab_1
+        rotation                         = 0.000000, -1.571152, 1.569564
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_151]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_indoor_arrow_0012
+        position                         = -71.392928, -18.082846, 70.494720
+        reference_name                   = statics\sign\sign_indoor_arrow
+        rotation                         = 0.000000, -1.571152, 1.569564
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_152]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_hospital_temperature
+        position                         = -79.741040, -22.664714, 90.722528
+        reference_name                   = statics\sign\sign_hospital_temperature
+        rotation                         = 1.510200, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_16]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\el_shkaf_03
+        position                         = -116.622232, -28.483182, 78.176592
+        reference_name                   = statics\technica\el_shkaf_03
+        rotation                         = 0.000000, 0.000000, 0.000001
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_17]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\el_shkaf_04_0001
+        position                         = -116.616464, -28.483184, 79.667520
+        reference_name                   = statics\technica\el_shkaf_04
+        rotation                         = 0.000000, 0.000000, 0.000001
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_18]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\el_shkaf_02_0002
+        position                         = -116.629120, -28.483182, 84.028152
+        reference_name                   = statics\technica\el_shkaf_02
+        rotation                         = 0.000000, 0.000000, 0.000001
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_19]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\el_shkaf_01
+        position                         = -116.620416, -28.483182, 85.556264
+        reference_name                   = statics\technica\el_shkaf_01
+        rotation                         = 0.000000, -0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_2]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\dummy_rainbow
+        position                         = -101.824024, -32.401344, 81.212616
+        reference_name                   = statics\technica\dummy_rainbow
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_20]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\oscilograph
+        position                         = -110.999760, -31.501332, 85.782480
+        reference_name                   = statics\technica\oscilograph
+        rotation                         = 0.000000, 1.470601, -0.000006
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_21]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_14
+        position                         = -111.016304, -31.501330, 86.266624
+        reference_name                   = statics\technica\transiver_14
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_22]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_16
+        position                         = -111.359488, -31.501334, 81.361936
+        reference_name                   = statics\technica\transiver_16
+        rotation                         = 0.000000, 1.208996, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_23]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_10_0000
+        position                         = -110.954464, -31.501334, 80.180960
+        reference_name                   = statics\technica\transiver_10
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_24]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_15
+        position                         = -111.003416, -31.113336, 80.178104
+        reference_name                   = statics\technica\transiver_15
+        rotation                         = 0.000000, 1.354797, -0.000000
+        scale                            = 0.739000, 0.739000, 0.739000
+        version                          = 18
+ 
+[object_25]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_11
+        position                         = -110.969168, -30.277476, 83.162720
+        reference_name                   = statics\technica\transiver_11
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_26]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_12
+        position                         = -110.952848, -30.277476, 81.798888
+        reference_name                   = statics\technica\transiver_12
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_27]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_13
+        position                         = -110.953736, -30.277476, 81.333784
+        reference_name                   = statics\technica\transiver_13
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_28]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_02
+        position                         = -103.017968, -31.361326, 90.740296
+        reference_name                   = statics\technica\transiver_02
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_29]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\psi_detector_2
+        position                         = -111.047112, -31.501332, 84.192432
+        reference_name                   = statics\technica\psi_detector_2
+        rotation                         = 0.000000, 2.043000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_3]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_3_0002
+        position                         = -102.186688, -32.401344, 90.820408
+        reference_name                   = statics\stol\stol_3
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_30]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\technica_details
+        position                         = -110.994992, -31.501332, 84.738096
+        reference_name                   = statics\technica\technica_details
+        rotation                         = 0.000000, -1.236597, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_31]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_lab_4_0001
+        position                         = -116.383456, -28.483184, 81.859704
+        reference_name                   = statics\stol\stol_lab_4
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_32]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\el_shkaf_02_0001
+        position                         = -116.629120, -28.483182, 74.690040
+        reference_name                   = statics\technica\el_shkaf_02
+        rotation                         = 0.000000, 0.000000, 0.000001
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_33]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\el_shkaf_04_0002
+        position                         = -116.616464, -28.483184, 89.028024
+        reference_name                   = statics\technica\el_shkaf_04
+        rotation                         = 0.000000, 0.000000, 0.000001
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_34]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_lab_3_0002
+        position                         = -116.389472, -28.483184, 72.646800
+        reference_name                   = statics\stol\stol_lab_3
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_35]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_lab_3
+        position                         = -116.389472, -28.483184, 91.099800
+        reference_name                   = statics\stol\stol_lab_3
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_36]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_1_0002
+        position                         = -87.693128, -32.359974, 80.650048
+        reference_name                   = statics\stol\stol_1
+        rotation                         = 0.000000, -3.141593, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_37]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shelf\shelf_lab_01
+        position                         = -89.597240, -32.359974, 81.805744
+        reference_name                   = statics\shelf\shelf_lab_01
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_38]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shelf\shelf_lab_01_0000
+        position                         = -89.597240, -32.359974, 85.374480
+        reference_name                   = statics\shelf\shelf_lab_01
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_39]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shelf\shelf_lab_01_br2_0002
+        position                         = -89.601424, -32.359974, 88.881528
+        reference_name                   = statics\shelf\shelf_lab_01_br2
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_4]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_4_0001
+        position                         = -111.105216, -32.401344, 90.355744
+        reference_name                   = statics\stol\stol_4
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_40]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shelf\shelf_lab_01_br2
+        position                         = -89.599344, -32.359974, 92.422736
+        reference_name                   = statics\shelf\shelf_lab_01_br2
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_41]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_08
+        position                         = -110.980672, -31.501332, 82.932752
+        reference_name                   = statics\technica\transiver_08
+        rotation                         = 0.000000, 1.366200, 0.000000
+        scale                            = 0.848800, 0.848800, 0.848800
+        version                          = 18
+ 
+[object_42]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_10_0001
+        position                         = -116.206200, -27.583170, 82.655424
+        reference_name                   = statics\technica\transiver_10
+        rotation                         = 0.000000, -4.874396, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_43]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\living_room\el_switch_04_0006
+        position                         = -70.990880, -26.716174, 76.061864
+        reference_name                   = statics\living_room\el_switch_04
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_44]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\living_room\el_switch_04_0007
+        position                         = -65.297752, -26.716174, 76.061864
+        reference_name                   = statics\living_room\el_switch_04
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_45]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\living_room\el_switch_04
+        position                         = -70.988552, -22.602170, 76.061864
+        reference_name                   = statics\living_room\el_switch_04
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_46]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\living_room\el_switch_04_0000
+        position                         = -65.295424, -22.602170, 76.061864
+        reference_name                   = statics\living_room\el_switch_04
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_47]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\living_room\el_switch_04_0001
+        position                         = -70.988552, -18.488176, 76.061864
+        reference_name                   = statics\living_room\el_switch_04
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_48]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\living_room\el_switch_04_0002
+        position                         = -65.295424, -18.488176, 76.061864
+        reference_name                   = statics\living_room\el_switch_04
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_49]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\living_room\el_switch_04_0003
+        position                         = -70.988552, -14.406189, 76.061864
+        reference_name                   = statics\living_room\el_switch_04
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_5]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_lab_4_0000
+        position                         = -111.080528, -32.401344, 85.180968
+        reference_name                   = statics\stol\stol_lab_4
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_50]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\living_room\el_switch_04_0004
+        position                         = -65.295424, -14.406189, 76.061864
+        reference_name                   = statics\living_room\el_switch_04
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_51]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\firestation\fire_plug_1
+        position                         = -65.103676, -15.000509, 54.112736
+        reference_name                   = statics\firestation\fire_plug_1
+        rotation                         = 0.000000, 1.570796, 1.570796
+        scale                            = 0.750000, 0.750000, 0.750000
+        version                          = 18
+ 
+[object_52]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\shkaf_work_01_0003
+        position                         = -67.509232, -16.003183, 54.918172
+        reference_name                   = statics\shkaf\shkaf_work_01
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_53]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\armory_room\weapons_schit
+        position                         = -83.610000, -14.999999, 79.870000
+        reference_name                   = statics\armory_room\weapons_schit
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_54]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = editor\camera
+        position                         = -64.425476, -14.257187, 69.888408
+        reference_name                   = editor\camera
+        rotation                         = -0.000000, -0.000000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_55]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\armory_room\weapons_schit_02
+        position                         = -81.338520, -15.808981, 79.004888
+        reference_name                   = statics\armory_room\weapons_schit_02
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_56]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\el_shkaf_04
+        position                         = -76.595832, -24.323184, 80.502656
+        reference_name                   = statics\technica\el_shkaf_04
+        rotation                         = 0.000000, 1.566000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_57]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\el_shkaf_02
+        position                         = -78.056424, -24.323184, 80.524800
+        reference_name                   = statics\technica\el_shkaf_02
+        rotation                         = 0.000000, 1.562402, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_58]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_1_0003
+        position                         = -82.266040, -24.323184, 90.066944
+        reference_name                   = statics\stol\stol_1
+        rotation                         = 0.000000, 0.005400, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_59]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_lab_1_0000
+        position                         = -82.349392, -23.135564, 90.340672
+        reference_name                   = statics\stol\stol_lab_1
+        rotation                         = 0.000000, -0.007200, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_6]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_lab_2_0000
+        position                         = -111.073144, -32.401344, 82.266968
+        reference_name                   = statics\stol\stol_lab_2
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_60]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_3_0001
+        position                         = -81.425488, -23.819188, 85.408368
+        reference_name                   = statics\stol\stol_3
+        rotation                         = -1.522198, 2.908543, 0.015335
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_61]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\technica\transiver_05
+        position                         = -73.309104, -24.251184, 84.934104
+        reference_name                   = statics\technica\transiver_05
+        rotation                         = -0.146162, -0.210854, 0.128808
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_62]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_4_0002
+        position                         = -78.294528, -15.487787, 107.760544
+        reference_name                   = statics\stol\stol_4
+        rotation                         = 1.529398, 2.981022, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_63]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_4
+        position                         = -72.577272, -15.937836, 105.832056
+        reference_name                   = statics\stol\stol_4
+        rotation                         = 0.000005, -2.122739, -0.000096
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_64]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_4_0003
+        position                         = -76.549480, -15.037473, 104.731152
+        reference_name                   = statics\stol\stol_4
+        rotation                         = 0.000000, -2.476622, -3.141593
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_65]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\trade_shops\shop_stoyka_2_0000
+        position                         = -84.401848, -15.937794, 88.605992
+        reference_name                   = statics\trade_shops\shop_stoyka_2
+        rotation                         = 0.000000, 3.051000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_66]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\trade_shops\shop_stoyka_1_0002
+        position                         = -80.546680, -15.937617, 93.990936
+        reference_name                   = statics\trade_shops\shop_stoyka_1
+        rotation                         = 0.000122, 0.034200, -0.000105
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_67]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\trade_shops\shop_stoyka_1
+        position                         = -75.136072, -16.045519, 92.103128
+        reference_name                   = statics\trade_shops\shop_stoyka_1
+        rotation                         = -1.405800, 0.619193, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_68]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\trade_shops\vesy_1
+        position                         = -76.106912, -15.793507, 95.215160
+        reference_name                   = statics\trade_shops\vesy_1
+        rotation                         = -1.460416, -2.374532, 3.139849
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_69]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\trade_shops\cash_register_1
+        position                         = -87.216864, -15.919231, 86.834136
+        reference_name                   = statics\trade_shops\cash_register_1
+        rotation                         = 0.050684, -1.017272, -0.020632
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_7]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_lab_3_0001
+        position                         = -111.073536, -32.401344, 79.423016
+        reference_name                   = statics\stol\stol_lab_3
+        rotation                         = 0.000000, -1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_70]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\trade_shops\shop_stoyka_1_0000
+        position                         = -83.807984, -15.937794, 93.987064
+        reference_name                   = statics\trade_shops\shop_stoyka_1
+        rotation                         = 0.000000, 0.025200, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_71]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_1
+        position                         = -91.040016, -28.483182, 96.134408
+        reference_name                   = statics\stol\stol_1
+        rotation                         = 0.000001, 0.046800, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_72]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_1_0000
+        position                         = -93.485768, -28.483182, 96.106120
+        reference_name                   = statics\stol\stol_1
+        rotation                         = 0.000001, -0.001800, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_73]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\shkaf_work_01
+        position                         = -68.829704, -16.204552, 70.319880
+        reference_name                   = statics\shkaf\shkaf_work_01
+        rotation                         = 0.000000, 0.034200, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_74]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_school_01
+        position                         = -48.350656, -20.229186, 68.616552
+        reference_name                   = statics\stol\stol_school_01
+        rotation                         = 1.441808, 0.420411, 0.064258
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_75]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\firestation\fire_plug_3_0000
+        position                         = -84.732528, -28.483184, 73.137696
+        reference_name                   = statics\firestation\fire_plug_3
+        rotation                         = 0.000002, -3.111293, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_76]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\firestation\fire_plug_2
+        position                         = -90.370456, -23.805472, 83.763856
+        reference_name                   = statics\firestation\fire_plug_2
+        rotation                         = 0.000000, -0.000000, 1.570796
+        scale                            = 0.991000, 0.991000, 0.991000
+        version                          = 18
+ 
+[object_77]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\shkaf_work_01_0000
+        position                         = -98.513264, -15.938177, 117.238560
+        reference_name                   = statics\shkaf\shkaf_work_01
+        rotation                         = 0.000000, 1.570788, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_78]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\shelf_metal_160x200
+        position                         = -56.171388, -17.555852, 103.150592
+        reference_name                   = statics\shkaf\shelf_metal_160x200
+        rotation                         = 0.000098, -1.570789, -0.001363
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_79]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_4_0004
+        position                         = -58.555892, -17.552230, 100.097400
+        reference_name                   = statics\stol\stol_4
+        rotation                         = 0.000685, -1.324800, -0.000880
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_8]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\shkaf_lab_02_0001
+        position                         = -111.214760, -32.401344, 76.224880
+        reference_name                   = statics\shkaf\shkaf_lab_02
+        rotation                         = 0.000000, 1.570796, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_80]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\big_object\big_generator_1_0000
+        position                         = -57.896764, -22.013442, 91.532264
+        reference_name                   = statics\big_object\big_generator_1
+        rotation                         = -0.000000, -0.000000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_81]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_3
+        position                         = -54.909400, -22.013444, 91.301496
+        reference_name                   = statics\stol\stol_3
+        rotation                         = 0.000000, -0.000076, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_82]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\cistern\cistern_03_0000
+        position                         = -52.535120, -22.013444, 85.396608
+        reference_name                   = statics\cistern\cistern_03
+        rotation                         = 0.000000, -0.516600, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_83]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\stol\stol_2_0000
+        position                         = -51.904800, -21.509450, 88.567320
+        reference_name                   = statics\stol\stol_2
+        rotation                         = -1.517399, -1.023706, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_84]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shkaf\bookcase_village_100x110_ph
+        position                         = -93.984216, -15.938245, 111.996424
+        reference_name                   = statics\shkaf\bookcase_village_100x110_ph
+        rotation                         = 0.000000, 2.196000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_85]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_agit_1
+        position                         = -98.994744, -14.230410, 113.503768
+        reference_name                   = statics\sign\sign_agit_1
+        rotation                         = 0.000000, 0.000000, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_86]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\sign\sign_agit_2
+        position                         = -98.994744, -14.349388, 111.965552
+        reference_name                   = statics\sign\sign_agit_2
+        rotation                         = 0.000000, 0.000000, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_87]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_88]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_occ
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_occ
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_89]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_outbox
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_outbox
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_9]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\shelf\shelf_lab_01_br1
+        position                         = -109.876872, -32.401344, 73.007416
+        reference_name                   = statics\shelf\shelf_lab_01_br1
+        rotation                         = 0.000000, 3.141593, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_90]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_1
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_1
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_91]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_10
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_10
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_92]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_11
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_11
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_93]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_2
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_2
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_94]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_3
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_3
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_95]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_5
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_5
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_96]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_4
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_4
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_97]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_7
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_7
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_98]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_6
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_6
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_99]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\labx8\labx8_sector_8
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\labx8\labx8_sector_8
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
